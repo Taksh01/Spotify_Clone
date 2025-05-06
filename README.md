@@ -1,2 +1,2 @@
 # Spotify_Clone
-Basic Spotify Clone Using HTML &amp; CSS
+Basic Spotify Clone Using HTML &amp; CSS.
