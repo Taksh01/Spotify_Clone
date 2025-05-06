@@ -235,6 +235,8 @@ i {
 
 .album {
   width: 25%;
+  display: flex;
+  justify-content: center;
 }
 
 .player {
@@ -283,4 +285,25 @@ i {
   background-color: #1bd760;
   border-radius: 50%;
   margin-top: -6px;
+}
+
+.album_img {
+  height: 60px;
+  border-radius: 0.5rem;
+  margin: 0.5rem;
+}
+
+.album_p1 {
+  opacity: 0.7;
+  margin-top: 0.75rem;
+}
+
+.album_p2 {
+  font-size: 12px;
+  opacity: 0.5;
+}
+
+.album_icon {
+  background-color: black;
+  color: black;
 }
